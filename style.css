@@ -1,0 +1,37 @@
+* {
+}
+
+body {
+    color: #212529;
+    background-color: gainsboro;
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.conteudo {
+    margin: 50px;
+    text-align: justify;
+}
+
+.titulos {
+    margin: 50px;
+}
+
+a {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img {
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
+.rodape p {
+    background-color: #212529;
+    text-align: center;
+    color: aliceblue;
+    bottom: 0;
+    position: static;
+    width: 100%;
+}
+
